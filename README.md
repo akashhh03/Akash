@@ -22,3 +22,13 @@
 - ⚙️ Gear
 - 🔑 Key
 - 📂 Open File Folder
+
+## Keyboard shortcuts
+Shortcuts I frequently use:
+Ctrl-C (copy)
+Ctrl-V (paste)
+Ctrl-T (open new tab)
+Shortcuts I would like to start using:
+Ctrl-Z (undo)
+Ctrl-F (find)
+Ctrl-S (save)
